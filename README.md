@@ -19,13 +19,16 @@ Once the application is running use postman to send a POST request with the text
 1. Method : POST
 2. URL : http://localhost:8080/customer/report
 3. Request : Type Text
-""2343225,2345,us_east,RedTeam,ProjectApple,3445s
+````
+2343225,2345,us_east,RedTeam,ProjectApple,3445s
 1223456,2345,us_west,BlueTeam,ProjectBanana,2211s
 3244332,2346,eu_west,YellowTeam3,ProjectCarrot,4322s
 1233456,2345,us_west,BlueTeam,ProjectDate,2221s
-3244132,2346,eu_west,YellowTeam3,ProjectEgg,4122s"
-4. Click Send.
-5. Result is available as text
+3244132,2346,eu_west,YellowTeam3,ProjectEgg,4122s
+````
+
+5. Click Send.
+6. Result is available as text
 
 
 <img width="1028" alt="image" src="https://github.com/masingh09/Oracle_assignment/assets/13362700/3a3c99b4-f860-4cdb-944b-ebab791be4c3">
